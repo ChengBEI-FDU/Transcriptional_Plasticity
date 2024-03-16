@@ -21,5 +21,5 @@ gsea_results@result$NES
 # output
 gsea_results_dt <- as.data.frame(gsea_results@result)
 colnames(gsea_results_dt)[1] <- 'name'
-write.csv(gsea_results_dt, "./data/TP StatTest in Regulons using GSEA method.csv")
+write.csv(gsea_results_dt, "./data/TP of regulons_GSEA.csv")
 
