@@ -1,2 +1,4 @@
-# Abstract
+# Genetically encoded transcriptional plasticity underlies stress adaptation in Mycobacterium tuberculosis
+
+## Abstract
 Transcriptional regulation is a critical adaptive mechanism that allows bacteria to respond to changing environments, yet the concept of transcriptional plasticity (TP) remains largely unexplored. In this study, we investigate the genome-wide TP profiles of Mycobacterium tuberculosis (Mtb) genes by analyzing 894 RNA sequencing samples derived from 73 different environmental conditions. Our data reveal that Mtb genes exhibit significant TP variation that correlates with gene function and gene essentiality. We also found that critical genetic features, such as gene length, GC content, and operon size independently impose constraints on TP, beyond trans-regulation. By extending our analysis to include two other Mycobacterium species -- M. smegmatis and M. abscessus -- we demonstrate a striking conservation of the TP landscape. This study provides a comprehensive understanding of the TP exhibited by mycobacteria genes, shedding light on this significant, yet understudied, genetic feature encoded in bacterial genomes.
