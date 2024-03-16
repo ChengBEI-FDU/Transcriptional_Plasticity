@@ -65,5 +65,5 @@ for (i in 1:nrow(feature_top_rmNA_Mtb)) {
   svm_shap_all <- rbind(svm_shap_all, tmp)
 }
 
-write.csv(svm_shap_all, "./data/SVM_shap_feature_importance_TSS added.csv")
+write.csv(svm_shap_all, "./data/SVM_shap_feature_importance.csv")
 
